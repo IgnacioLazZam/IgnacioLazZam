@@ -2,8 +2,8 @@
 
 - 💻 I’m currently studying a superior degree on cross-platform application development.
 - 🔭 Studying center: CPIFP Alan Turing.
-- 💭 Learning: KOTLIN, TYPESCRIPT, C#, PYTHON.
-- 🧠 Knowledge: JAVA, HTML, CSS, JAVASCRIPT, UBUNTU, ORACLE JET.
+- 💭 Learning: REACT, SPRINGBOOT.
+- 🧠 Knowledge: JAVA, HTML, CSS, JAVASCRIPT, TYPESCRIPT, KOTLIN, PYTHON, ANGULAR.
 - 👷‍♂️ Business practices with <a href="https://www.viewnext.com/">ViewNext.</a>
 - 📫 How to reach me: ignacio.laz.zam@gmail.com.
 
